@@ -11,10 +11,10 @@ The Anti Food Waste App helps users reduce food waste by enabling community shar
 ## Technology Stack
 - Frontend: React.js
 - Backend: Node.js (Express.js)
-- Database: PostgreSQL (via Sequelize ORM)
+- Database: MySQL 
 - Deployment: AWS or Azure
 
 ## Project Structure
-- backend: REST API implementation.
+- backend: REST API and database implementation.
 - frontend: React.js SPA.
 - docs: Project documentation.
