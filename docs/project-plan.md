@@ -1,16 +1,16 @@
 # Project Plan
 
-## Stage 1: Planning (21.11.2021)
+## Stage 1: Planning
 - Set up Git repository.
 - Define detailed specifications.
 - Create project structure.
 
-## Stage 2: Backend Implementation (05.12.2021)
+## Stage 2: Backend Implementation
 - Develop REST API endpoints.
 - Connect to PostgreSQL database using Sequelize.
 - Provide instructions for running the service.
 
-## Stage 3: Complete Application (Final Tutorial)
+## Stage 3: Complete Application
 - Build React.js SPA frontend.
 - Integrate backend and frontend.
 - Deploy the application and demo it.
